@@ -18,5 +18,5 @@
 
 ## 📫 Connect with Me
 - 📧 Email: dangemainsh35@gmail.com  
-- 💼 LinkedIn: [Your LinkedIn Link](https://linkedin.com/in/Manish Dange)
+- 💼 LinkedIn: [Your LinkedIn Link](https://linkedin.com/in/ManishDange)
 -
