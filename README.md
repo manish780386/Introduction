@@ -17,6 +17,6 @@
 **Tools:** Git | VS Code | Postman
 
 ## 📫 Connect with Me
-- 📧 Email: manishdange@example.com  
-- 💼 LinkedIn: [Your LinkedIn Link](https://linkedin.com/in/yourname)
-- 🌐 Portfolio: [Your Website Link](https://yourportfolio.com)
+- 📧 Email: dangemainsh35@gmail.com  
+- 💼 LinkedIn: [Your LinkedIn Link](https://linkedin.com/in/Manish Dange)
+-
